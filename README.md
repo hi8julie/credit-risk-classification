@@ -4,7 +4,7 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 ![shutterstock_567634105](https://github.com/hi8julie/credit-risk-classification/assets/118202453/afac630b-fc7e-4dc0-b887-d91a572765bf)
 
 
-### Credit Risk Analysis Report
+# Credit Risk Analysis Report
 
 ## Overview of the Analysis
 
