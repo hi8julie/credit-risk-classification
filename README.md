@@ -10,7 +10,7 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
-* The purpose of the analysis is to train and evaluate a model based on loan risk and build a model that can identify the creditworthiness of borrowers. 
+* The purpose of the analysis is to train and evaluate a model based on loan risk that can identify the creditworthiness of borrowers. 
 * Explain what financial information the data was on, and what you needed to predict.
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 * Describe the stages of the machine learning process you went through as part of this analysis.
