@@ -10,7 +10,7 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
-* Explain the purpose of the analysis.
+* The purpose of the analysis is to train and evaluate a model based on loan risk and build a model that can identify the creditworthiness of borrowers. 
 * Explain what financial information the data was on, and what you needed to predict.
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 * Describe the stages of the machine learning process you went through as part of this analysis.
@@ -18,15 +18,15 @@ In this section, describe the analysis you completed for the machine learning mo
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
+* Logistic Regression Model:
 
-* Machine Learning Model 1:
-  * Description of Model 1 Accuracy, Precision, and Recall scores.
-
+<img width="299" alt="report 1" src="https://github.com/hi8julie/credit-risk-classification/assets/118202453/ca668f04-b160-48b7-9cde-c6d53f0620ec">
 
 
-* Machine Learning Model 2:
-  * Description of Model 2 Accuracy, Precision, and Recall scores.
+* Logistic Regression Model with Resampled Training Data:
+
+<img width="255" alt="report 2" src="https://github.com/hi8julie/credit-risk-classification/assets/118202453/997d7fbd-5fef-408d-ba58-e24f4b9fd0d3">
+
 
 ## Summary
 
