@@ -12,7 +12,7 @@
 
   - Split the Data into Training and Testing Sets
   - Create a Logistic Regression Model with the Original Data
-  - Predict a Logistic Regression Model with Resampled Training Data (to resample the data and achieve a balancsed dataset, I used the RandomOverSampler method)
+  - Predict a Logistic Regression Model with Resampled Training Data (to resample the data and achieve a balanced dataset, I used the RandomOverSampler method)
   - Write a Credit Risk Analysis Report
   
    More details on the process are below. 
